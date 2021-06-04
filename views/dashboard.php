@@ -113,6 +113,9 @@ require_once 'views/layouts/header.php';?>
                         </div>
                      </div>
                      <br>
+                     <div>
+                        <p>hola prubas</p>
+                     </div>
 
                         
            
