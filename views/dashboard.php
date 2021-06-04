@@ -86,10 +86,7 @@ require_once 'views/layouts/header.php';?>
                                 </div>
                             </div>
                         </div>
-
-                        
-           
-                     <div class="card-deck">
+                        <div class="card-deck">
                         <div class="card d-inline-block shadow">
                             <div class="card-body text-center">
                                 <img class="" src="views/assets/img/university.png" alt="80px" width="80px">                           
@@ -116,6 +113,10 @@ require_once 'views/layouts/header.php';?>
                         </div>
                      </div>
                      <br>
+
+                        
+           
+
           </div>
       </div>
   </div>
